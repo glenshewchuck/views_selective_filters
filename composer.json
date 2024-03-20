@@ -1,6 +1,7 @@
 {
     "name": "glenshewchuck/views_selective_filters",
     "description": "Drupal views_selective_filters that works with 8, 9 and 10",
+    "homepage": "https://github.com/glenshewchuck/views_selective_filters",
     "require": {
         "php": ">=8.1"
     }
